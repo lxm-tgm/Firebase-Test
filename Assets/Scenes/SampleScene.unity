@@ -1608,7 +1608,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 345544705}
         m_TargetAssemblyTypeName: MainPanel, Assembly-CSharp
-        m_MethodName: OnBindConfirm_LinkCredetials
+        m_MethodName: OnBindConfirm_LinkCredentials
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
