@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "903349598295-dfa9j6hd5uhuu32l7o24clim09n50smv.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyeLTGJCcrU6hgsSLh9v711Bio6oCccaI"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:903349598295:ios:d4cd6738f15ee644de4b12", 
+        "android_client_info": {
+          "package_name": "com.topgolfmedia.tta.sandbox"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "tta-sandbox.appspot.com", 
+    "project_id": "tta-sandbox", 
+    "firebase_url": "https://tta-sandbox-default-rtdb.firebaseio.com", 
+    "project_number": "903349598295"
+  }
+}

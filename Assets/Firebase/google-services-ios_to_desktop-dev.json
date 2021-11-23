@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "378115091438-m10su1utld9j4l675lgndqiblrvfnd7n.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTvUudKIdBWn1HuS3j5CxdVohbRdm4Rbs"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:378115091438:ios:a6212c2eda474de5ccfcff", 
+        "android_client_info": {
+          "package_name": "com.wgt.eg.dev"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "tta-dev-b0914.appspot.com", 
+    "project_id": "tta-dev-b0914", 
+    "firebase_url": "https://tta-dev-b0914.firebaseio.com", 
+    "project_number": "378115091438"
+  }
+}

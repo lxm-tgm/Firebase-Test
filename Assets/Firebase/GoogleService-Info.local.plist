@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>315730426045-mogg5b5u3np7kruf0g7dtlntkvppqtan.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.315730426045-mogg5b5u3np7kruf0g7dtlntkvppqtan</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD9tnFtNJAm2w6jJkBULCyeOdI3yWgzdlU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>315730426045</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.wgt.eg.local</string>
+	<key>PROJECT_ID</key>
+	<string>tta-local</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tta-local.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:315730426045:ios:def66d5a7f8eefe551dfd4</string>
+	<key>DATABASE_URL</key>
+	<string>https://tta-local-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "96085345969",
+    "firebase_url": "https://tta-beta-default-rtdb.firebaseio.com",
+    "project_id": "tta-beta",
+    "storage_bucket": "tta-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96085345969:android:761f9ff0f0f3c560338490",
+        "android_client_info": {
+          "package_name": "com.topgolfmedia.android.tta.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96085345969-ddpbbeo974ii2gvut8rfcd6mt6ii2h8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiN6g_DyrtbhE6bgI08zCmzNiEFB4YkzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96085345969-ddpbbeo974ii2gvut8rfcd6mt6ii2h8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96085345969-4jqbiq52iuio6s5314f5s03m91dc6oas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wgt.eg.beta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

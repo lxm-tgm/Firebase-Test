@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "635806237937-vf51mapm4ngav2j7tgmin0riccsmns3s.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAZMuiP6a2QzVM0a3_Iagqs-lNgpMlnt0"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:635806237937:ios:73547e6386994f635ad550", 
+        "android_client_info": {
+          "package_name": "com.topgolfmedia.tta"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "tta-prod-430ec.appspot.com", 
+    "project_id": "tta-prod-430ec", 
+    "firebase_url": "https://tta-prod-430ec-default-rtdb.firebaseio.com", 
+    "project_number": "635806237937"
+  }
+}

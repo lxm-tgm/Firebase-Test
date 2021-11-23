@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>903349598295-dfa9j6hd5uhuu32l7o24clim09n50smv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.903349598295-dfa9j6hd5uhuu32l7o24clim09n50smv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyeLTGJCcrU6hgsSLh9v711Bio6oCccaI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>903349598295</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.topgolfmedia.tta.sandbox</string>
+	<key>PROJECT_ID</key>
+	<string>tta-sandbox</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tta-sandbox.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>DATABASE_URL</key>
+	<string>https://tta-sandbox-default-rtdb.firebaseio.com</string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:903349598295:ios:d4cd6738f15ee644de4b12</string>
+</dict>
+</plist>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "315730426045",
+    "firebase_url": "https://tta-local-default-rtdb.firebaseio.com",
+    "project_id": "tta-local",
+    "storage_bucket": "tta-local.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315730426045:android:a50e2ea0a9f39f4d51dfd4",
+        "android_client_info": {
+          "package_name": "com.wgt.eg.local"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315730426045-qdvb0c34j5221icnus5j0s402jjl10oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYvrP9lj3ZYn9rAWPHDNFSdP7QztuGbJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315730426045-qdvb0c34j5221icnus5j0s402jjl10oi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "315730426045-mogg5b5u3np7kruf0g7dtlntkvppqtan.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wgt.eg.local"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

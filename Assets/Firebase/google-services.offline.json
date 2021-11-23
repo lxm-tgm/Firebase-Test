@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "405425288533",
+    "firebase_url": "https://tta-offline-default-rtdb.firebaseio.com",
+    "project_id": "tta-offline",
+    "storage_bucket": "tta-offline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405425288533:android:4b2cc0699f12004071abdc",
+        "android_client_info": {
+          "package_name": "com.wgt.eg.offline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405425288533-30tuvd29bcj1c9pu4m2ouj4rcpmoc5be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-0DNP1-1SwZmtMl8JmN_0MLD6KDsmF60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405425288533-30tuvd29bcj1c9pu4m2ouj4rcpmoc5be.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405425288533-807f45o4i44ff9ujm934hs5271hiqtu1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wgt.eg.offline"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
